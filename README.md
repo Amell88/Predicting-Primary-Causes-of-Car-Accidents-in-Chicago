@@ -12,7 +12,6 @@
 - [Methodology](#methodology)
 - [Model Building](#model-building)
 - [Model Evaluation](#model-evaluation)
-- [Results](#results)
 - [Conclusion](#conclusion)
 
 ## Overview
@@ -44,16 +43,6 @@ In this project, we have employed the logistic regression technique for building
 ### Bringing It to Life
 We've used a logistic regression model to make predictions about the primary contributory cause of car accidents.
 
-## Model Evaluation
-### Assessing Performance
-To gauge the model's effectiveness, we've evaluated it using the following metrics:
-- **Accuracy**: 0.3820
-- **Precision**: 0.2349
-- **Recall**: 0.3820
-- **F1-Score**: 0.2449
-
-Additionally, we've visualized the model's performance using a confusion matrix.
-
 ## Results
 ### The Bigger Picture
 Our model, while showing promise, offers room for improvement. Detailed analysis and additional feature engineering can contribute to its enhanced accuracy.
@@ -64,9 +53,4 @@ The "Predicting Primary Causes of Car Accidents in Chicago" project is a signifi
 
 Please feel free to explore our project further, review the code, and share your insights.
 
-## Contributing
-Contributions are welcome! Whether it's fixing a bug, enhancing the model, or improving this README, your collaboration can help us make a more significant impact. Please check our [Contribution Guidelines](CONTRIBUTING.md) to get started.
-
-## License
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
