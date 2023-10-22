@@ -1,8 +1,7 @@
 <h1 align="center">Predicting Primary Causes of Car Accidents in Chicago</h1>
 
-<div align="center">
-  <img src="https://your-image-url-here.com" alt="Car Accidents" width="400">
-</div>
+slides
+https://prezi.com/view/P6J8mQjF9bsvd8ELFBpg/
 
 ## Table of Contents
 
